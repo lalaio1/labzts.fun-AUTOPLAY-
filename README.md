@@ -3,6 +3,8 @@
 ![Versão](https://raw.githubusercontent.com/lalaio1/labzts.fun-AUTOPLAY-/refs/heads/main/img/1.png)
 ---
 
+url: https://labzts.fun/words/
+
 Um script de usuário para automação e controle do jogo Palavras, oferecendo uma interface intuitiva estilo macOS com funcionalidades avançadas de autoplay.
 
 ## ✨ Características
